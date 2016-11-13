@@ -8,3 +8,10 @@ CMakeFiles
 install_manifest.txt
 uclient-fetch
 build
+
+cscope.files
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
+
